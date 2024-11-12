@@ -15,8 +15,8 @@ const Models = [
   // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: '1g0004', url: './1g0004.glb', miEscala: .6, miPosicion: .0 },
-  { title: 'ADIANO', url: './ADIANO.glb', miEscala: 2, miPosicion: .2 },
-  { title: 'ADIANO1', url: './ADIANO1.glb', miEscala: 2, miPosicion: .2 },
+  // { title: 'ADIANO', url: './ADIANO.glb', miEscala: 2, miPosicion: .2 },
+  { title: 'ADIANO3', url: './ADIANO3.glb', miEscala: 2, miPosicion: .2 },
   // { title: 'FRUTOS', url: './FRUTOS.glb', miEscala: 1.3, miPosicion: .2 },
 ]
 
